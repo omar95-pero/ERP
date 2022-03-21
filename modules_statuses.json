@@ -1,0 +1,10 @@
+{
+    "Landing": true,
+    "Tenant": true,
+    "Support": true,
+    "User": true,
+    "Central": true,
+    "HR": true,
+    "Company": true,
+    "ESS": true
+}

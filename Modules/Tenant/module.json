@@ -1,0 +1,13 @@
+{
+    "name": "Tenant",
+    "alias": "tenant",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Tenant\\Providers\\TenantServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

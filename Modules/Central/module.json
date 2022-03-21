@@ -1,0 +1,13 @@
+{
+    "name": "Central",
+    "alias": "central",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Central\\Providers\\CentralServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
